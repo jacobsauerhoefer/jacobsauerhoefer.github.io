@@ -1,12 +1,12 @@
 const posts = [
-  // {
-  //   title: 'Linear Regression, Cost Functions',
-  //   thumbnail: './drafts/figures/dataspace_mse.png',
-  //   date: 'Dec. 7 2024',
-  //   description: 'We explore Linear Models',
-  //   link: './drafts/2024-10-16-linear-regression.pdf',
-  //   tags: ['python']
-  // },
+  {
+    title: 'Linear Regression, Cost Functions',
+    thumbnail: './posts/figures/dataspace_mse.png',
+    date: 'Dec. 8 2024',
+    description: 'Notes on common notation and terminology encountered when building linear models and performing linear regression.',
+    link: './posts/2024-10-16-linear-regression.pdf',
+    tags: ['python']
+  },
   {
     title: '1D Random Walk Simulation',
     thumbnail: './posts/figures/randomwalk.png',
