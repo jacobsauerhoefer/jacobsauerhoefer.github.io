@@ -4,7 +4,7 @@ const posts = [
     thumbnail: './posts/figures/dataspace_mse.png',
     date: 'Dec. 8 2024',
     description: 'Notes on common notation and terminology encountered when building linear models and performing linear regression.',
-    link: './posts/2024-10-16-linear-regression.pdf',
+    link: './posts/2024-12-8-linear-regression.pdf',
     tags: ['python']
   },
   {
